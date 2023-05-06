@@ -1,4 +1,4 @@
-# Electromag
+# Electromagnétisme
 """Le flux d’énergie
 La section 2.4.4 du Griffiths présente une discussion sur le fait que l’énergie électrique se trouve emmagasinée dans le champ électrique. De même, la section 7.2.4 présente de façon similaire le fait que l’énergie magnétique est stockée dans le champ magnétique. Il est possible de caractériser le flux d’énergie électromagnétique grâce à une quantité nommée vecteur de Poynting et définie comme :
 S = μ1 ( E × B ) . 0
